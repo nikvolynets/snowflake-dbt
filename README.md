@@ -1,1 +1,2 @@
-# snowflake-dbt
+# Snowflake - DBT project
+
