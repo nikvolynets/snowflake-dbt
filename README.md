@@ -96,3 +96,11 @@ $ dbt run
 ```
 
 Congratulations! You just run your first dbt models on Snowflake!
+
+In this lab, we are going to analyze historical trading performance of a company that has trading desks spread across different regions. As inputs, we are going to leverage datasets available in Knoema Economy Data Atlas that is available in Snowflake Data Marketplace, plus few manual uploads.
+
+We are going to set up the environments from scratch, build scalable pipelines in dbt, establish data tests, and Snowflake and promote code to production. Finally we will use Snowsight to build a simple dashboard to visualize the results.
+
+![image](https://github.com/nikvolynets/snowflake-dbt/assets/151893648/d7effe35-8bfc-4d2c-b7d9-2b4495f965bf)
+
+Let's go to the Snowflake Data Marketplace and find what we need. Today we're going to grab a Knoema Economy Atlas Data.
